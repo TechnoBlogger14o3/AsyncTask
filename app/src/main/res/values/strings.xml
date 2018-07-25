@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Async Tasks Example</string>
+    <string name="txtContent">If you run this example without changing the screen orientation, the AsyncTask will start and finish its work normally. Problems begin to appear when the device orientation is changed while the AsyncTask is in the middle of the work. The application will crash, and an exception similar to these ones will be thrown: java.lang.IllegalArgumentException: View not attached to window manager, or Activity has leaked window com.android.internal.policy….</string>
+    <string name="lock_orientation">Lock Orientation</string>
+    <string name="unlock_orientation">UnLock Orientation</string>
+    <string name="async_task_example">Async Task Example</string>
+    <string name="start">Start</string>
+</resources>
